@@ -1,7 +1,7 @@
 ## :two_hearts: Justiceserv.:two_hearts:
 
 <p align="center">
-<iframe width='100%' height='300px' src='[https://dsc.bio/justiceserv/](https://dsc.bio/justiceserv/)'></iframe>
+<iframe width='100%' height='300px' src='https://dsc.bio/justiceserv/'></iframe>
 </p>
 
 ## About ME :blush:
