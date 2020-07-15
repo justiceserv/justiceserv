@@ -1,7 +1,7 @@
 ## :two_hearts: Justiceserv.:two_hearts:
 
 <p align="center">
-<img align = "center" src="https://i.justiceserv.studio/whale_hrMOS5FV0l.png">
+<img align = "center" src="https://jserv.xyz/ShareX/whale_MlgZ3QyKXs.png">
 </p>
 
 ## About ME :blush:
