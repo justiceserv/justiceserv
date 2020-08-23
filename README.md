@@ -42,12 +42,13 @@ Owner of https://jserv.xyz , https://justiceserv.studio , https://mcx.kr/ ! (jus
 ### What I did
 - Giving out CCTVProtection/Android Program to Gangdong Gov. ([https://www.gangdong.go.kr/](https://www.gangdong.go.kr/))     
   Repo is private so might not be able to search 
-- Launch ShareX free hosting (https://mcx.kr) :arrow_right: Check out (with your own subdomain) 
+- Partnership with Discord Bot "NOT" -> [Check it Out](https://discord.com/oauth2/authorize?client_id=634059474012995594&permissions=519248&scope=bot)
 
 ### What I am trying to do 
 - USACO Sliver until 2020 Ends 
 - Finish all of my projects to final version (Most of them are in beta still) 
 - Get Discord Verified Developer Role 
+- Create Korea's 'Netlify' (Much in smaller form, compact) 
 
 ## Continues...
 
