@@ -48,7 +48,7 @@ Owner of https://jserv.xyz , https://justiceserv.studio , https://mcx.kr/ ! (jus
 ### What I am trying to do 
 - USACO Sliver until 2020 Ends 
 - Finish all of my projects to final version (Most of them are in beta still) 
-- ~~Get Discord Verified Developer Role ~~
+~~Get Discord Verified Developer Role ~~
 - Create Korea's 'Netlify' (Much in smaller form, compact) 
 
 ## Continues...
