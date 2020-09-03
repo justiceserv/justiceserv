@@ -43,11 +43,12 @@ Owner of https://jserv.xyz , https://justiceserv.studio , https://mcx.kr/ ! (jus
 - Giving out CCTVProtection/Android Program to Gangdong Gov. ([https://www.gangdong.go.kr/](https://www.gangdong.go.kr/))     
   Repo is private so might not be able to search 
 - Partnership with Discord Bot "NOT" -> [Check it Out](https://discord.com/oauth2/authorize?client_id=634059474012995594&permissions=519248&scope=bot)
+- Discord Early Verified Developer with Discord Bot "NOT" 
 
 ### What I am trying to do 
 - USACO Sliver until 2020 Ends 
 - Finish all of my projects to final version (Most of them are in beta still) 
-- Get Discord Verified Developer Role 
+- ~~Get Discord Verified Developer Role ~~
 - Create Korea's 'Netlify' (Much in smaller form, compact) 
 
 ## Continues...
