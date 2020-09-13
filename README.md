@@ -1,7 +1,7 @@
 ## :two_hearts: Justiceserv.:two_hearts:
 
 <p align="center">
-<img align = "center" src="https://jserv.xyz/ShareX/whale_MlgZ3QyKXs.png">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
 </p>
 
 ## About ME :blush:
