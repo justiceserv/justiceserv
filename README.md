@@ -1,6 +1,6 @@
 ## :two_hearts: Justiceserv.:two_hearts:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justiceserv&show_icons=true&count_private=true)
 
 ## About ME :blush:
 
@@ -8,7 +8,7 @@ Fresh Sophomore who loves to **CODE** & **OPEN SOURCE** :sparkling_heart:
 
 Loves to create Projects and programs that could help other people :D 
 
-Owner of https://jserv.xyz , https://justiceserv.studio , https://mcx.kr/ ! (justiceserv.dev and others are now all included in jserv.xyz !)
+Owner of https://jserv.xyz , https://deplux.io ! 
 
 ### Languages I can Use  :sparkles:
 
