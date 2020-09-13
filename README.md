@@ -19,12 +19,6 @@ Owner of https://jserv.xyz , https://deplux.io !
 |Discord.Js  | At least 1 Year of Study (Created MagicJipange Project) |
 | HTML & CSS & PHP | At least 6 Months of Study (Mostly used for REST API Projects) |
 
-#### Other Minor Languages I started to Learn
-
-- Inno Setup (and Installshield)
-- MySQL (For my new big project!)
-- Python 
-
 ### Graphic Utilities I can Use  :sparkles:
 
 |Graphic Utilities| Experience of Years (Projects I did) | 
@@ -42,12 +36,11 @@ Owner of https://jserv.xyz , https://deplux.io !
   Repo is private so might not be able to search 
 - Partnership with Discord Bot "NOT" -> [Check it Out](https://discord.com/oauth2/authorize?client_id=634059474012995594&permissions=519248&scope=bot)
 - Discord Early Verified Developer with Discord Bot "NOT" 
+- Created Discord integrated "Netlify" -> https://deplux.io (Will support more languages later.) 
 
 ### What I am trying to do 
 - USACO Sliver until 2020 Ends 
 - Finish all of my projects to final version (Most of them are in beta still) 
-~~Get Discord Verified Developer Role ~~
-- Create Korea's 'Netlify' (Much in smaller form, compact) 
 
 ## Continues...
 
