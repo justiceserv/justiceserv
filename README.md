@@ -10,25 +10,6 @@ Loves to create Projects and programs that could help other people :D
 
 Owner of https://jserv.xyz , https://deplux.io ! 
 
-### Languages I can Use  :sparkles:
-
-|Languages I can Use| Experience of Years (Projects I did) | 
-|--|--|
-|C++ (and other C Languages) | At least 4 Years of Study (Algorithm level of about USACO Bronze) |
-|JAVA  | At least 1.5 Years of Study (Created Falcon.Chat Project) |
-|Discord.Js  | At least 1 Year of Study (Created MagicJipange Project) |
-| HTML & CSS & PHP | At least 6 Months of Study (Mostly used for REST API Projects) |
-
-### Graphic Utilities I can Use  :sparkles:
-
-|Graphic Utilities| Experience of Years (Projects I did) | 
-|--|--|
-| Adobe Photoshop | At least 2 Years of Study (Used to make static UIs) |
-| Adobe AfterEffects| At least 1 Year of Study (For my Youtube Videos) |
-| Adobe InDesign | At least 1 Year of Study (Usually used for my presentation) |
-| Adobe XD (Minor) | Just started to use! (My outcomes in https://justiceserv.studio/) |
-
-
 ## What I accomplished (Or trying to)
 
 ### What I did
