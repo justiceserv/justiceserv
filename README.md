@@ -1,6 +1,7 @@
 ## :two_hearts: Justiceserv.:two_hearts:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justiceserv&show_icons=true&count_private=true)
+![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/languages.svg)
 
 ## About ME :blush:
 
