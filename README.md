@@ -29,5 +29,5 @@ BTW, :pray:Please:pray: star our projects whenever you are trying to use! :star:
 Email me: [justiceserv@jserv.xyz](mailto://justiceserv@jserv.xyz)
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=justiceserv"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=justiceserv&width=600"
 />
