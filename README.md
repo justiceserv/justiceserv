@@ -24,10 +24,8 @@ Chief Operating Officer of [Pluxcon Network](https://pluxcon.network/)
 
 BTW, :pray:Please:pray: star our projects whenever you are trying to use! :star:
 
-### Currently Available for Outsourcing. 
+### Not Looking For Job Actively, but looking for summer internship. 
 
 Email me: [justiceserv@jserv.xyz](mailto://justiceserv@jserv.xyz)
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=justiceserv&width=400&height=200"
-/>
+CodersRank: https://profile.codersrank.io/user/justiceserv/
