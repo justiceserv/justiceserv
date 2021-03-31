@@ -27,3 +27,7 @@ BTW, :pray:Please:pray: star our projects whenever you are trying to use! :star:
 ### Currently Available for Outsourcing. 
 
 Email me: [justiceserv@jserv.xyz](mailto://justiceserv@jserv.xyz)
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=justiceserv&skills=JavaScript,TypeScript&show-other-skills=true"
+/>
