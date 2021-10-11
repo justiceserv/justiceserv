@@ -19,7 +19,7 @@ Chief Operating Officer of [Pluxcon Network](https://pluxcon.network/)
 - Partnership with Discord Bot "NOT" -> [Check it Out](https://discord.com/oauth2/authorize?client_id=634059474012995594&permissions=519248&scope=bot)
 - Discord Early Verified Developer with Discord Bot "NOT" 
 - Created [deplux](https://deplux.io/)
-- Team Manager @ Prestige HGD (AU Contenders Trials Division) 
+- Team Manager @ Prestige HGD / Bull Frog in Well / Incendia Evolution (China / Korea Contenders TEam) -> **RETIRED**
 
 ## Continues...
 
