@@ -20,6 +20,7 @@ Chief Operating Officer of [Pluxcon Network](https://pluxcon.network/)
 - Discord Early Verified Developer with Discord Bot "NOT" 
 - Created [deplux](https://deplux.io/)
 - Team Manager @ Prestige HGD / Bull Frog in Well / Incendia Evolution (China / Korea Contenders Team) -> **RETIRED**
+- AP Computer Science A Perfect Scorer
 
 ## Continues...
 
