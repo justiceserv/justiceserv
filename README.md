@@ -11,6 +11,8 @@ Loves to create Projects and programs that could help other people :D
 
 Chief Operating Officer of [Pluxcon Network](https://pluxcon.network/)
 
+Running personal network - [AS213163](https://as213163.net/)
+
 ## What I accomplished (Or trying to)
 
 ### What I did
