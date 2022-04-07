@@ -9,7 +9,7 @@ Currently doing freelance projects & working at [D4RK Esports](https://twitter.c
 
 <h2 align="center">My Technology Stack</h2>
 <p align="center">
-   <img width="100%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/techstack1.png">
+   <img width="100%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/stacktech.png">
 </p> 
 
 ## Continues...
