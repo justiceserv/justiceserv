@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="95%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/justiceserv.png">
+   <img width="100%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/justiceserv1.png">
 </p>
 <h1 align="center">Hi 👋 I'm Guhyun Chung!</h1>
 
