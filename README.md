@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋 I'm Guhyun Chung!</h1>
 
-Fresh Sophomore who loves to **CODE** & **OPEN SOURCE** :sparkling_heart:
+I'm 🇰🇷 Student who loves **Computer Science**, **UI/UX Design**, and **Esports**. 
 
 Loves to create Projects and programs that could help other people :D 
 
