@@ -5,11 +5,7 @@
 
 I'm 🇰🇷 Student who loves **Computer Science**, **UI/UX Design**, and **Esports**. 
 
-Loves to create Projects and programs that could help other people :D 
-
-Chief Operating Officer of [Pluxcon Network](https://pluxcon.network/)
-
-Running personal network - [AS213163](https://as213163.net/)
+Currently doing freelance projects & working at [D4RK Esports](https://d4rk.gg/) as Developer.
 
 ## What I accomplished (Or trying to)
 
