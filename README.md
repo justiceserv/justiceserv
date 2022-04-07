@@ -1,5 +1,5 @@
 <p align="center">
-   ![](https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/justiceserv.png)
+   <img width="100%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/justiceserv.png">
 </p>
 ![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/languages.svg)
