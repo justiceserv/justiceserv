@@ -14,4 +14,5 @@ Currently doing freelance projects & working at [D4RK Esports](https://twitter.c
 
 <h1 align="center">My Links 🔗</h1>
 **My Resume (Korean)**: [https://justi.es/resumepdf](https://justi.es/resumepdf)
+
 **My LinkedIn**: [https://justi.es/linkedin](https://justi.es/linkedin)
