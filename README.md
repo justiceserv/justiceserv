@@ -5,18 +5,12 @@
 
 I'm 🇰🇷 Student who loves **Computer Science**, **UI/UX Design**, and **Esports**. 
 
-Currently doing freelance projects & working at [D4RK Esports](https://d4rk.gg/) as Developer.
+Currently doing freelance projects & working at [D4RK Esports](https://twitter.com/D4RK_Esports) as Developer.
 
-## What I accomplished (Or trying to)
-
-### What I did
-- Giving out CCTVProtection/Android Program to Gangdong Gov. ([https://www.gangdong.go.kr/](https://www.gangdong.go.kr/))     
-  Repo is private so might not be able to search 
-- Partnership with Discord Bot "NOT" -> [Check it Out](https://discord.com/oauth2/authorize?client_id=634059474012995594&permissions=519248&scope=bot)
-- Discord Early Verified Developer with Discord Bot "NOT" 
-- Created [deplux](https://deplux.io/)
-- Team Manager @ Prestige HGD / Bull Frog in Well / Incendia Evolution (China / Korea Contenders Team) -> **RETIRED**
-- AP Computer Science A Perfect Scorer
+<h2 align="center">My Technology Stack</h2>
+<p align="center">
+   <img width="100%" src="">
+</p> 
 
 ## Continues...
 
