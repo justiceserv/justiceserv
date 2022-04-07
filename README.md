@@ -1,4 +1,4 @@
-## :two_hearts: Justiceserv.:two_hearts:
+![](https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/justiceserv.png)
 
 ![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/languages.svg)
