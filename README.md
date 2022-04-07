@@ -1,10 +1,8 @@
 <p align="center">
    <img width="100%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/justiceserv.png">
 </p>
-![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/justiceserv/github-stats/master/generated/languages.svg)
 
-## About ME :blush:
+<h1 align="center">Hi, I'm Guhyun Chung!</h1>
 
 Fresh Sophomore who loves to **CODE** & **OPEN SOURCE** :sparkling_heart:
 
