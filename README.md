@@ -5,7 +5,7 @@
 
 I'm 🇰🇷 Student who loves **Computer Science**, **UI/UX Design**, and **Esports**. 
 
-Currently doing freelance projects & working at [PANTHERA Esports](https://panthera.gg/) & [GENUS] (https://www.genus.co.kr) as Developer.
+Currently doing freelance projects & working at [PANTHERA Esports](https://panthera.gg/) & [GENUS](https://www.genus.co.kr) as Developer.
 
 <h2 align="center">My Technology Stack</h2>
 <p align="center">
