@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="100%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/justiceserv1.png">
+   <img width="100%" src="https://objectstorage.ap-seoul-1.oraclecloud.com/p/D_madkr3Rp4wrM7wBJCfI1aM4wLwn9DDbzinby8lLE2gCZ1hsAaOS011qIeJFHAQ/n/cniowxujmes1/b/JusticeservPersonal/o/Justiceserv/justiceserv1.png">
 </p>
 <h1 align="center">Hi 👋 I'm Guhyun Chung!</h1>
 
@@ -9,7 +9,7 @@ Currently doing freelance projects & working at [PANTHERA Esports](https://panth
 
 <h2 align="center">My Technology Stack</h2>
 <p align="center">
-   <img width="100%" src="https://s3.ap-northeast-2.wasabisys.com/staticsites/jserv/stacktech.png">
+   <img width="100%" src="https://objectstorage.ap-seoul-1.oraclecloud.com/p/mvgws5m2reB-kH9V35cCWJsDmcL2y2ubXVT3Us4CI4Kp5FR-4h_2IWyJyZ4vgpfX/n/cniowxujmes1/b/JusticeservPersonal/o/Justiceserv/stacktech.png">
 </p> 
 
 <h2 align="center">My Links 🔗</h1>
