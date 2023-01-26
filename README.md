@@ -5,7 +5,7 @@
 
 I'm 🇰🇷 Student who loves **Computer Science**, **UI/UX Design**, and **Esports**. 
 
-Currently doing freelance projects & working at [PANTHERA Esports](https://panthera.gg/) & [GENUS](https://www.genus.co.kr) as Developer.
+Currently working as Founder @ [Pluxcon Ltd](https://pluxcon.network/) & Full Stack Dev @ [Panthera Esports](https://panthera.gg/).
 
 <h2 align="center">My Technology Stack</h2>
 <p align="center">
@@ -25,5 +25,3 @@ Currently doing freelance projects & working at [PANTHERA Esports](https://panth
 **Contact me via Discord**: Justiceserv#1645
 
 **Contact me via Email**: justiceserv@jserv.xyz 
-
-**❗I am not looking for job opportunity anymore. Please do not send me any job opportunity emails.**
