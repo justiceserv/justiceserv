@@ -5,7 +5,7 @@
 
 I'm 🇰🇷 Student who loves **Computer Science**, **UI/UX Design**, and **Esports**. 
 
-Currently working as Founder @ [Pluxcon Ltd](https://pluxcon.network/) & Full Stack Dev @ [Panthera Esports](https://panthera.gg/).
+Currently working as Founder @ [Pluxcon Ltd](https://pluxcon.network/) & CEO @ [Panthera Esports](https://panthera.gg/).
 
 <h2 align="center">My Technology Stack</h2>
 <p align="center">
