@@ -6,7 +6,7 @@ Currently functioning ```UTC -04:00 America/New_York```
 ### My Information 
 Mixed Information based on ```UTC +09:00 Asia/Seoul``` and ```UTC -04:00 America/New_York``` 
 - [Personal Website](https://justi.es/)
-- [General GPG Key](http://keyserver.ubuntu.com/pks/lookup?op=get&search=0xd3923d5b69e916ccf348753bfdd7728e2202fad2)
+- [General GPG Key](https://public.justi.es/public.gpgkey)
 
 ### Contacts
 - [Unencrypted Email](mailto:gc3175@nyu.edu)
