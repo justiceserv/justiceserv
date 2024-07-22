@@ -1,6 +1,6 @@
 ### Current Status
 Currently functioning ```UTC +09:00 Asia/Seoul``` 
-- 🇰🇷 Working @ [Pluxcon Co., Ltd](https://pluxcon.com/) & [InfraPeak Inc.](https://infrapeak.net/)
+- 🇰🇷 Founder @ [Pluxcon Co., Ltd](https://pluxcon.com/) & Product Manager @ [Phylaxis Inc.](https://phylaxis.net/)
 - 🗽 Studying @ New York University, [College of Arts and Science](https://cs.nyu.edu/) 27'
 - 🖥️ Pushed 38TiB+ @ [ArchiveTeam Blogger](https://tracker.archiveteam.org/blogger/#show-all)
 
