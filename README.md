@@ -1,6 +1,6 @@
 ### Current Status
 Currently functioning ```UTC -04:00 America/New_York``` 
-- 🇰🇷 Founder @ [Pluxcon Co., Ltd](https://pluxcon.com/) & Product Manager @ [Phylaxis Inc.](https://phylaxis.net/)
+- 🇰🇷 Founder @ [Pluxcon Co., Ltd](https://pluxcon.com/) & COO @ [4096 SVCS LLC.](https://4096.services/)
 - 🗽 Studying @ New York University, [College of Arts and Science](https://cs.nyu.edu/) 27'
 - 🖥️ Pushed 38TiB+ @ [ArchiveTeam Blogger](https://tracker.archiveteam.org/blogger/#show-all)
 
