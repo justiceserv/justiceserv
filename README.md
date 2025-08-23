@@ -1,6 +1,6 @@
 ### Current Status
 Currently functioning ```UTC -04:00 America/New_York``` 
-- 🇰🇷 Software Engineer @ [Be My Marketer](https://www.bemymarketer.net/)
+- 🇰🇷 Software Engineer @ [BeMyMarketer](https://www.bemymarketer.net/)
 - 🗽 Studying @ New York University, [College of Arts and Science](https://cs.nyu.edu/) 27'
 - 🖥️ Pushed 38TiB+ @ [ArchiveTeam Blogger](https://tracker.archiveteam.org/blogger/#show-all)
 
@@ -11,4 +11,4 @@ Mixed Information based on ```UTC +09:00 Asia/Seoul``` and ```UTC -04:00 America
 
 ### Contacts
 - [Unencrypted Email](mailto:gc3175@nyu.edu)
-- [Encrypted Email](mailto:gc@justi.es)
+- [Encrypted Email](mailto:gcc@epr.ac.kr)
